@@ -1,0 +1,20 @@
+C:\Users\Enrique\Desktop\Mis programas\Algoritmos Geneticos\AlgoritmosGeneticos\bin\Debug\AlgoritmosGeneticos.exe
+C:\Users\Enrique\Desktop\Mis programas\Algoritmos Geneticos\AlgoritmosGeneticos\bin\Debug\AlgoritmosGeneticos.pdb
+C:\Users\Enrique\Desktop\Mis programas\Algoritmos Geneticos\AlgoritmosGeneticos\obj\Debug\AlgoritmosGeneticos.csprojResolveAssemblyReference.cache
+C:\Users\Enrique\Desktop\Mis programas\Algoritmos Geneticos\AlgoritmosGeneticos\obj\Debug\AlgoritmosGeneticos.Form1.resources
+C:\Users\Enrique\Desktop\Mis programas\Algoritmos Geneticos\AlgoritmosGeneticos\obj\Debug\AlgoritmosGeneticos.csproj.GenerateResource.Cache
+C:\Users\Enrique\Desktop\Mis programas\Algoritmos Geneticos\AlgoritmosGeneticos\obj\Debug\AlgoritmosGeneticos.exe
+C:\Users\Enrique\Desktop\Mis programas\Algoritmos Geneticos\AlgoritmosGeneticos\obj\Debug\AlgoritmosGeneticos.pdb
+C:\Users\Enrique\Desktop\AlgoritmoGenetico\obj\Debug\AlgoritmosGeneticos.csprojResolveAssemblyReference.cache
+C:\Users\Enrique\Desktop\AlgoritmoGenetico\obj\Debug\AlgoritmosGeneticos.Form1.resources
+C:\Users\Enrique\Desktop\AlgoritmoGenetico\obj\Debug\AlgoritmosGeneticos.csproj.GenerateResource.Cache
+C:\Users\Enrique\Desktop\AlgoritmoGenetico\obj\Debug\AlgoritmosGeneticos.exe
+C:\Users\Enrique\Desktop\AlgoritmoGenetico\obj\Debug\AlgoritmosGeneticos.pdb
+C:\Users\leonardo.santos\Desktop\Algoritmo Genetico\C#\bin\Debug\AlgoritmosGeneticos.exe
+C:\Users\leonardo.santos\Desktop\Algoritmo Genetico\C#\bin\Debug\AlgoritmosGeneticos.pdb
+C:\Users\leonardo.santos\Desktop\Algoritmo Genetico\C#\obj\Debug\AlgoritmosGeneticos.csprojAssemblyReference.cache
+C:\Users\leonardo.santos\Desktop\Algoritmo Genetico\C#\obj\Debug\AlgoritmosGeneticos.Form1.resources
+C:\Users\leonardo.santos\Desktop\Algoritmo Genetico\C#\obj\Debug\AlgoritmosGeneticos.csproj.GenerateResource.cache
+C:\Users\leonardo.santos\Desktop\Algoritmo Genetico\C#\obj\Debug\AlgoritmosGeneticos.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.santos\Desktop\Algoritmo Genetico\C#\obj\Debug\AlgoritmosGeneticos.exe
+C:\Users\leonardo.santos\Desktop\Algoritmo Genetico\C#\obj\Debug\AlgoritmosGeneticos.pdb
